@@ -1,0 +1,730 @@
+[
+  {
+  "schedule": "IV",
+  "title": "List of Officers Authorised to Make and Execute Orders and Other Instruments in the Name of the President",
+  "source": "[Rule 7(2)]",
+  "entries": [
+    {
+      "number": "1",
+      "officers": [
+        "Secretary",
+        "Special Secretary",
+        "Acting Secretary",
+        "Additional Secretary",
+        "Joint Secretary",
+        "Deputy Secretary to the Government of Pakistan or to the Cabinet",
+        "Section Officer",
+        "Officer granted one of these ranks ex-officio",
+        "Officer on Special Duty authorized by the Division concerned"
+      ]
+    },
+    {
+      "number": "2",
+      "officers": [
+        "Secretary",
+        "Additional Secretary",
+        "Joint Secretary",
+        "Deputy Secretary",
+        "Section Officer in the President's Secretariat (Public) or Prime Minister's Office"
+      ],
+      "note": "The inclusion of these officers is intended to enable them to execute orders in the name of the President in respect of such matters only as relate to the staff in the President's Secretariat (Public) or Prime Minister's Office."
+    },
+    {
+      "number": "3",
+      "officers": [
+        "Military Secretary to the President or to the Prime Minister",
+        "Officer on Special Duty",
+        "Assistant Secretary in the President's Secretariat (Personal) or Prime Minister's Office"
+      ],
+      "note": "The inclusion of these officers is intended to enable them to execute orders in the name of the President in respect of such matters only as relate to the staff in the President's Secretariat (Personal) or Prime Minister's Office and to the household of the President or Prime Minister."
+    },
+    {
+      "number": "4",
+      "description": "In respect of the matters within their jurisdiction:",
+      "subsections": [
+        {
+          "clause": "a",
+          "officers": [
+            "Controller or Deputy Controller of Capital Issues",
+            "Financial Adviser",
+            "Joint Financial Adviser",
+            "Deputy Financial Adviser",
+            "Assistant Financial Adviser"
+          ]
+        },
+        {
+          "clause": "b",
+          "officers": [
+            "Director-General or Deputy Director-General, Pakistan Post Office Department"
+          ],
+          "note": "Omitted vide SRO 226(I)/2010 (F.No.4-4/2007-Min-I), dated 02.04.2010"
+        },
+        {
+          "clause": "c",
+          "officers": [
+            "General Manager, Railway",
+            "Director",
+            "Joint Director",
+            "Deputy Director"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "description": "In respect of orders issued under sub-section (1) of section 3 of the Imports and Exports (Control) Act, 1950, in accordance with the Import Policy approved by the Government",
+      "officers": [
+        "Chief Controller of Imports and Exports"
+      ]
+    }
+  ]
+ },
+ {
+  "schedule": "V-A",
+  "rule_reference": "Rule 15(1)(g)(h)",
+  "title": "List of Cases to be Submitted to the Prime Minister for His Orders",
+  "cases": [
+    {
+      "s_no": "1",
+      "division": "Cabinet Division",
+      "description": "Omitted",
+      "reference": "Omitted vide SRO 1434(I)/2024 dated 11-09-2024"
+    },
+    {
+      "s_no": "21A",
+      "division": "Cabinet Division",
+      "description": "Appointment, resignation and removal of Special Assistants to the Prime Minister and of persons holding the Minister's status without Cabinet rank, determination of their salaries, allowances and privileges.",
+      "reference": "Articles 90 and 99"
+    },
+    {
+      "s_no": "31B",
+      "division": "Cabinet Division",
+      "description": "Rules for the convenient transaction of business of the Federal Government.",
+      "reference": "Article 99"
+    },
+    {
+      "s_no": "41C",
+      "division": "Cabinet Division",
+      "description": "A Certificate of Secrecy and Fidelity to be signed by an Adviser to the Prime Minister or a Special Assistant to the Prime Minister upon entering office.",
+      "reference": "-"
+    },
+    {
+      "s_no": "2",
+      "division": "Defence Division",
+      "description": "Appointment of, and above the rank of, Captain in the Navy, Colonel in the Army and Group Captain in the Air Force, except Chairman, Joint Chiefs of Staff Committee, and the Chiefs of the Army, Naval and Air Staff. Appointments of Lieutenant General and equivalent made by the PM in consultation with the President.",
+      "reference": "Article 243"
+    },
+    {
+      "s_no": "3",
+      "division": "Defence Division",
+      "description": "Dismissal (other than by Courts Martial) of Commissioned Officers of Armed Forces (excluding Junior Commissioned Officers). Dismissals of officers of and above the rank of Lieutenant General require President’s approval on PM’s advice (per Schedule V-B, item 14).",
+      "reference": "Article 243"
+    },
+    {
+      "s_no": "4",
+      "division": "Defence Division",
+      "description": "Petitions against Court Martial sentences of dismissal, cashiering, imprisonment or death for Commissioned Officers (excluding Junior Commissioned Officers). Sentences for officers of and above the rank of Lieutenant General require President’s approval on PM’s advice (per Schedule V-B, item 15).",
+      "reference": "Article 243"
+    },
+    {
+      "s_no": "5",
+      "division": "Establishment Division",
+      "description": "Federal Public Service Commission: (a) Omitted; (b) Non-acceptance of its advice. Also includes making of rules under the Civil Servants Act, 1973.",
+      "reference": "Article 242"
+    },
+    {
+      "s_no": "6",
+      "division": "Finance Division",
+      "description": "Annual Budget Statement to be laid before the National Assembly.",
+      "reference": "Articles 80 and 82"
+    },
+    {
+      "s_no": "7",
+      "division": "Finance Division",
+      "description": "Authentication of Schedule of Authorised Expenditure.",
+      "reference": "Article 83"
+    },
+    {
+      "s_no": "8",
+      "division": "Finance Division",
+      "description": "Excess Budget Statement.",
+      "reference": "Article 84"
+    },
+    {
+      "s_no": "9",
+      "division": "Finance Division",
+      "description": "Raising of loans by Provincial Governments subject to certain conditions.",
+      "reference": "Article 167(3)"
+    },
+    {
+      "s_no": "10",
+      "division": "Foreign Affairs Division",
+      "description": "Appointment of Heads of Pakistan Missions abroad and other representatives down to the rank of Counsellor.",
+      "reference": "Civil Servants (Appointment, Promotion and Transfer) Rules, 1973"
+    },
+    {
+      "s_no": "110A",
+      "division": "Foreign Affairs Division",
+      "description": "Permission to accept foreign honours and awards.",
+      "reference": "Article 259(1)"
+    },
+    {
+      "s_no": "11",
+      "division": "Interior and Narcotics Control Division",
+      "description": "Preventive Detention.",
+      "reference": "-"
+    },
+    {
+      "s_no": "112",
+      "division": "Interior and Narcotics Control Division",
+      "description": "Prosecution of officers in BPS-17 to 22 and heads of autonomous and semi-autonomous bodies in M-I or equivalent, including Provincial Chief Secretaries.",
+      "reference": "Section 197 CrPC, Section 5(2) Prevention of Corruption Act, 1947, and Government Servants (Efficiency and Discipline) Rules, 1973"
+    },
+    {
+      "s_no": "13",
+      "division": "Law and Justice Division",
+      "description": "Appointment of members of Administrative Courts and Tribunals for Federal subjects.",
+      "reference": "Article 212"
+    },
+    {
+      "s_no": "313A",
+      "division": "Law and Justice Division",
+      "description": "Rejection of representations filed by an Agency under the Wafaqi Mohtasib Order, 1983 (P.O.1 of 1983), where recommendations are to be implemented.",
+      "reference": "-"
+    },
+    {
+      "s_no": "413B",
+      "division": "Law and Justice Division",
+      "description": "Rejection of representations filed by Revenue Division or subordinate offices under the Federal Tax Ombudsman Ordinance, 2000 (XXXV of 2000), where recommendations are to be implemented.",
+      "reference": "-"
+    },
+    {
+      "s_no": "15",
+      "division": "Railways Division",
+      "description": "Appointment and terms and conditions of Chairman, General Manager and Members of Railways Board.",
+      "reference": "President’s Order No.33 of 1962, Article 3(1) & (4); Civil Servants Rules, 1973"
+    },
+    {
+      "s_no": "20",
+      "division": "All Divisions",
+      "description": "Delegation of powers to Provinces. Directions to Provinces in certain cases. Appointment of Secretaries and other senior officials (BPS-20 and above), including those in corporations or autonomous bodies under the Federal Government.",
+      "reference": "Articles 146 and 149; Civil Servants Rules, 1973"
+    },
+    {
+      "s_no": "21",
+      "division": "All Divisions",
+      "description": "Disciplinary matters of all officers where the Prime Minister is the Authority or Appellate Authority under Civil Servants Act, 1973 or any other law/rules.",
+      "reference": "Government Servants (Efficiency and Discipline) Rules, 1973"
+    },
+    {
+      "s_no": "22",
+      "division": "All Divisions",
+      "description": "Disciplinary matters in respect of heads of corporations, bodies, authorities or organizations established by Federal laws or owned/controlled by Federal Government in M-I or equivalent grade including penalties.",
+      "reference": "Government Servants (Efficiency and Discipline) Rules, 1973"
+    },
+    {
+      "s_no": "23",
+      "division": "All Divisions",
+      "description": "Appointments required to be made by the Government under any existing law.",
+      "reference": "Relevant law authorizing the appointment"
+    },
+    {
+      "s_no": "24",
+      "division": "All Divisions",
+      "description": "Appeal cases related to Heads of Statutory Corporations/Organizations.",
+      "reference": "-"
+    }
+  ]
+ },
+ {
+  "schedule": "V-B",
+  "rule_reference": "Rule 15-A (1)",
+  "title": "LIST OF CASES REQUIRING ORDERS OF THE PRESIDENT ON THE ADVICE OF THE PRIME MINISTER",
+  "entries": [
+    {
+      "number": 1,
+      "division": "CABINET DIVISION",
+      "description": "Appointment, resignation and removal of Federal Ministers & Ministers of State.",
+      "reference": "Article 92(1)(3)"
+    },
+    {
+      "number": "2A",
+      "division": "CABINET DIVISION",
+      "description": "Appointment of Federal Caretaker Cabinet (on advice of the Caretaker Prime Minister)",
+      "reference": "Article 224(1A)"
+    },
+    {
+      "number": "2D",
+      "division": "CABINET DIVISION",
+      "description": "Appointment, resignation and removal of Provincial Governors, determination of their salaries, allowances and privileges",
+      "reference": "Article 101"
+    },
+    {
+      "number": "2E",
+      "division": "CABINET DIVISION",
+      "description": "Appointment of Acting Governors (other than Speaker of the Provincial Assembly) during the absence of Governors",
+      "reference": "Article 104"
+    },
+    {
+      "number": "3",
+      "division": "CABINET DIVISION",
+      "description": "National Economic Council. Its Constitution and appointment of members.",
+      "reference": "Article 156(1)"
+    },
+    {
+      "number": "4",
+      "division": "CABINET DIVISION",
+      "description": "Issue of Proclamation of Emergency and its revocation.",
+      "reference": "Articles 232, 233, 236(1)"
+    },
+    {
+      "number": "5",
+      "division": "CABINET DIVISION",
+      "description": "Issue of Proclamation in case of failure of constitutional machinery in a Province and its revocation.",
+      "reference": "Articles 234, 236(1)"
+    },
+    {
+      "number": "6",
+      "division": "CABINET DIVISION",
+      "description": "Determination of salaries, allowances and privileges of the President, Prime Minister, Federal Ministers, Ministers of State.",
+      "reference": "Article 250"
+    },
+    {
+      "number":"7",
+      "division": "CABINET DIVISION",
+      "description": "Appointment of Advisers and determination of their terms and conditions.",
+      "reference": "Article 93(1)"
+    },
+    {
+      "number": "8",
+      "division": "CABINET DIVISION",
+      "description": "Conferment of Awards.",
+      "reference": "Article 259(2)"
+    },
+    {
+      "number": "9",
+      "division": "DEFENCE DIVISION",
+      "description": "Appointment of Chairman, Joint Chiefs of Staff Committee, the Chief of the Army Staff, the Chief of the Naval Staff and the Chief of the Air Staff and determination of their salaries and allowances.",
+      "reference": "Article 243"
+    },
+    {
+      "number": "10",
+      "division": "DEFENCE DIVISION",
+      "description": "Raising, maintenance of and grant of Commissions in the Military, Navy and Air Force of Pakistan and Reserves of such Forces.",
+      "reference": "Article 243"
+    },
+    {
+      "number": "11",
+      "division": "DEFENCE DIVISION",
+      "description": "Imposition of all penalties, including removal and dismissal from service on Armed Forces Officers of and above the rank of Lieutenant General in the Army and equivalent ranks in the other defence services otherwise than, by sentences of Court Martial.",
+      "reference": "Relevant laws and rules governing the Defence Forces read with Article 243"
+    },
+    {
+      "number": "11A",
+      "division": "DEFENCE DIVISION",
+      "description": "Petition against sentences of dismissals, cashiering, imprisonment or death awarded by Courts Martial to Armed Forces Officers of and above the rank of Lieutenant General in the Army and equivalent rank in the other Defence Services.",
+      "reference": "Relevant laws and rules governing the Defence Forces read with Article 243"
+    },
+    {
+      "number": "12",
+      "division": "DEFENCE DIVISION",
+      "description": "Directions as to the application of Law to a major aerodrome.",
+      "reference": "Article 252"
+    },
+    {
+      "number": "13",
+      "division": "ESTABLISHMENT DIVISION",
+      "description": "Federal Public Service Commission; its strength and the appointment, removal or resignation of the Chairman and members, and the terms and conditions of their service.",
+      "reference": "Sections 3, 4 and 5 of the Federal Public Service Commission Ordinance, 1977 (XLV of 1977)"
+    },
+    {
+      "number": "14",
+      "division": "FINANCE DIVISION",
+      "description": "Rules relating to the custody etc of Federal Consolidated Fund and Public Account.",
+      "reference": "Article 79"
+    },
+    {
+      "number": "15",
+      "division": "FINANCE DIVISION",
+      "description": "National Finance Commission. Its constitution, reports and recommendations including the allocation of the shares of Provincial Governments in the proceeds of taxes.",
+      "reference": "Article 160"
+    },
+    {
+      "number": "16",
+      "division": "FINANCE DIVISION",
+      "description": "Auditor General of Pakistan:\n(i) Appointment, removal, term of office and terms and conditions of service;\n(ii) Functions and powers.",
+      "reference": "Article 168(1)(3)"
+    },
+    {
+      "number": "17",
+      "division": "FINANCE DIVISION",
+      "description": "Principles and methods of keeping of accounts.",
+      "reference": "Article 169"
+    },
+    {
+      "number": "18",
+      "division": "FINANCE DIVISION",
+      "description": "Reports relating to the accounts of Federation.",
+      "reference": "Article 171"
+    },
+    {
+      "number": "19",
+      "division": "FINANCE DIVISION",
+      "description": "Issue of proclamation in case of financial emergency and its revocation.",
+      "reference": "Article 235, 236(1)"
+    },
+    {
+      "number": "20",
+      "division": "FOREIGN AFFAIRS DIVISION",
+      "description": "The declaration of war.",
+      "reference": "-"
+    },
+    {
+      "number": "21",
+      "division": "INTERIOR AND NARCOTICS CONTROL DIVISION",
+      "description": "Grants of pardons, reprieves and respites and revision suspension or commutation of any sentence passed by any Court, tribunal or other authority, other than a court martial.",
+      "reference": "Article 45"
+    },
+    {
+      "number": "22",
+      "division": "INTERIOR AND NARCOTICS CONTROL DIVISION",
+      "description": "Government of Islamabad Capital Territory.",
+      "reference": "Article 258"
+    },
+    {
+      "number": "23",
+      "division": "INTER-PROVINCIAL COORDINATION DIVISION",
+      "description": "Council of Common Interest. Its constitution and appointment of members.",
+      "reference": "Article 153(1)&(2)"
+    },
+    {
+      "number": "24",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Submission of annual report to each House of Majlis-e-Shoora (Parliament) in relation to Federation on observance of Principles of Policy.",
+      "reference": "Article 29(3)"
+    },
+    {
+      "number": "25",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Promulgation of Ordinances.",
+      "reference": "Article 89(1)"
+    },
+    {
+      "number": "26",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Attorney General for Pakistan: Appointment, duties terms and conditions and resignation from office.",
+      "reference": "Article 100"
+    },
+    {
+      "number": "27",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Supreme Court:\n(a) Appointment of the Chief Justice, Acting Chief Justice and other Judges and their removal, allowances and privileges.\n(b) Sitting of the Court at places other than Islamabad.",
+      "reference": "Article 177(1),180,181,182 and 209(6), Article 183(2)"
+    },
+    {
+      "number": "28",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "High Court:\nNumber of Judges, appointment of Chief Justices, Acting Chief Justices and other Judges and their transfers, removal, allowances and privileges.",
+      "reference": "Article 192(1),193(1),196, 197, 200 and 209(6)"
+    },
+    {
+      "number": "29",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Federal Shariat Court: number of Judges, their appointments, transfer, resignation, removal, allowances and privileges.",
+      "reference": "Article 203(c)"
+    },
+    {
+      "number": "30",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Rules for the appointment of officers and servants of Supreme Court and their terms and conditions of employment.",
+      "reference": "Article 208"
+    },
+    {
+      "number": "31",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Reference to Supreme Judicial Council.",
+      "reference": "Article 209(5)"
+    },
+    {
+      "number": "32",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Representations filed under Article 32 of the Establishment of the Office of Wafaqi Mohtasib (Ombudsman) Order, 1983 (P.O.No.1 of 1983), except the cases covered by serial No.13A of Schedule V-A.",
+      "reference": "P.O.No.1 of 1983"
+    },
+    {
+      "number": "33",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Representations filed under section 32 of the Establishment of the Office of Federal Tax Ombudsman Ordinance, 2000 (XXXV of 2000), except the cases covered by serial No.13B of Schedule V-A.",
+      "reference": "Ordinance XXXV of 2000"
+    },
+    {
+      "number": "34",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Appointment of Judges of the Accountability Courts.",
+      "reference": "-"
+    },
+    {
+      "number": "35",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Council of Islamic Ideology:\n(i) Appointment, resignation and removal of members and Chairman.\n(ii) Rules of Procedure.",
+      "reference": "Article 228(3)(4), Article 231"
+    },
+    {
+      "number": "36",
+      "division": "LAW AND JUSTICE DIVISION",
+      "description": "Reference to Council of Islamic Ideology whether a proposed law is or is not repugnant to the Injunctions of Islam.",
+      "reference": "Article 229"
+    },
+    {
+      "number": "37",
+      "division": "MARITIME AFFAIRS DIVISION",
+      "description": "Direction as to the application of a law to major port.",
+      "reference": "Article 252"
+    },
+    {
+      "number": "38",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Resignation of Speaker.",
+      "reference": "Article 53(5)"
+    },
+    {
+      "number": "39",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Summoning and prorogation of either House or both Houses of Majlis-e-Shoora (Parliament) in Joint Sitting.",
+      "reference": "Article 54(1)"
+    },
+    {
+      "number": "40",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Dissolution of National Assembly.",
+      "reference": "Article 58(1)"
+    },
+    {
+      "number":"41",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Resignation of Chairman.",
+      "reference": "Article 61"
+    },
+    {
+      "number": "42",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Rules of procedure for either House of Majlis-e-Shoora (Parliament).",
+      "reference": "Article 67(2)"
+    },
+    {
+      "number": "43",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Assent to Bills other than Money Bills.",
+      "reference": "Article 75(1)(a)(b) & 75(2)"
+    },
+    {
+      "number": "44",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Assent of Money Bills.",
+      "reference": "Article 75(1)(a)"
+    },
+    {
+      "number": "45",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Assent to Bills passed in a Joint Sitting of Majlis-e-Shoora (Parliament).",
+      "reference": "Article 75(2)"
+    },
+    {
+      "number": "46",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Rules of Procedure for Joint Sitting of and communications between the two Houses.",
+      "reference": "Article 72(1)"
+    },
+    {
+      "number": "47",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Assent to Bills amending the Constitution.",
+      "reference": "Amended provisions of Article 239"
+    },
+    {
+      "number": "48",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Referendum of any matter of national importance.",
+      "reference": "Article 48(6)(7)"
+    },
+    {
+      "number": "49",
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Appointment of Chief Election Commissioner and members of Election Commission.",
+      "reference": "Article 213, Article 218(2)(b)"
+    },
+    {
+      "number": "50",
+      "division": "REVENUE DIVISION",
+      "description": "Bills affecting taxes in which Provinces are interested.",
+      "reference": "Article 162"
+    },
+    {
+      "number": "51",
+      "division": "STATES AND FRONTIER REGIONS DIVISION",
+      "description": "Omitted vide SRO 1434 (I)/2024 dated 11-09-24",
+      "reference": "-"
+    },
+    {
+      "number": "52",
+      "division": "WATER RESOURCES DIVISION",
+      "description": "Commission to look into complaints as to interference with water supplies.",
+      "reference": "Article 155(2)"
+    },
+    {
+      "number": "53",
+      "division": "ALL DIVISIONS",
+      "description": "Direction to Governor to discharge certain functions as agent of the President in relation to areas not included in any Province.",
+      "reference": "Article 145(1)"
+    },
+    {
+      "number": "54",
+      "division": "ALL DIVISIONS",
+      "description": "Reference to Supreme Court on any question of law.",
+      "reference": "Article 186"
+    },
+    {
+      "number": "55",
+      "division": "ALL DIVISIONS",
+      "description": "All such cases where any function is to be performed or any orders have to be issued by the President or his specific approval is required under any statutory provision.",
+      "reference": "-"
+    },
+    {
+      "number": "56",
+      "division": "ALL DIVISIONS",
+      "description": "-do-",
+      "constitutional_reference": "-do-"
+    },
+    {
+      "number": "57",
+      "division": "ALL DIVISIONS",
+      "description": "All such cases where any function is to be performed or any orders have to be issued by the President or his specific approval is required under any statutory provision.",
+      "constitutional_reference": ""
+    },
+    {
+      "number": "58",
+      "division": "ALL DIVISIONS",
+      "description": "All such cases where the Prime Minister advises the President under any constitutional or statutory provision and the President's approval is constitutionally required.",
+      "constitutional_reference": ""
+    }
+  ]
+ },
+ {
+  "schedule": "VI",
+  "rule_reference": "Rule 15-A (2)",
+  "title": "LIST OF CASES TO BE SUBMITTED TO THE PRESIDENT FOR HIS ORDERS IN HIS DISCRETION",
+  "entries": [
+    {
+      "number": 1,
+      "division": "CABINET DIVISION",
+      "description": "Appointment of Care-taker Prime Minister (in consultation with the outgoing Prime Minister and the leader of the opposition in outgoing National Assembly).",
+      "reference": "Article 224(1A)"
+    },
+    {
+      "number": 2,
+      "division": "PARLIAMENTARY AFFAIRS DIVISION",
+      "description": "Dissolution of National Assembly under clause (2) of Article 58.",
+      "reference": "Article 58(2)"
+    }
+  ]
+ },
+ {
+  "schedule": "VII",
+  "rule_reference": "Rule 15-A (3)",
+  "title": "CASES AND PAPERS TO BE SUBMITTED TO THE PRESIDENT FOR INFORMATION",
+  "entries": [
+    {
+      "number": 1,
+      "description": "All Cypher messages and telegrams."
+    },
+    {
+      "number": 2,
+      "description": "Summaries for the Cabinet, Committees of the Cabinet, National Economic Council, ECNEC, Council of Common Interests and the minutes and decisions of their meetings."
+    },
+    {
+      "number": 3,
+      "description": "Annual and periodical reports of Indus River System Authority (IRSA)."
+    },
+    {
+      "number": 4,
+      "description": "Annual and periodical reports of the Federal Tax Ombudsman."
+    },
+    {
+      "number": 5,
+      "description": "Intelligence Reports (daily, weekly and special reports of DIB and D.G. ISI)."
+    },
+    {
+      "number": 6,
+      "description": "Cases of appointments of Federal Secretaries and Provincial Chief Secretaries and to posts of BPS-22 and above in the Federal Government as well as appointments of heads of autonomous bodies under the Federal Government (including statutory Corporations and Authorities) in grades equivalent to grade-22 or in M-I grade."
+    },
+    {
+      "number": 7,
+      "description": "Reports of Commissions of Enquiry appointed by the President."
+    },
+    {
+      "number": 8,
+      "description": "Periodical reports of the Federally administered areas including northern areas."
+    },
+    {
+      "number": 9,
+      "description": "Periodical reports of the Government of Azad Jammu and Kashmir."
+    },
+    {
+      "number": 10,
+      "description": "Minutes and decisions of meetings of the Azad Jammu and Kashmir Council."
+    },
+    {
+      "number": 11,
+      "description": "Annual Reports of the Public Service Commission."
+    },
+    {
+      "number": 12,
+      "description": "Annual Reports of the Council of Islamic Ideology."
+    },
+    {
+      "number": 13,
+      "description": "Annual/Periodic reports of the Ombudsman (Wafaqi Mohtasib)."
+    },
+    {
+      "number": 14,
+      "description": "Periodical reports of the Provincial Governments and Islamabad Capital Territory Administration."
+    },
+    {
+      "number": 15,
+      "description": "Periodical reports of the activities of Pakistan's Missions abroad."
+    },
+    {
+      "number": 16,
+      "description": "Periodical reports of the activities of Federal Ministries and Divisions."
+    },
+    {
+      "number": 17,
+      "description": "All documents issued by the Finance Minister pertaining to the Annual Budget."
+    },
+    {
+      "number": "17A",
+      "description": "Report of the Auditor-General of Pakistan."
+    },
+    {
+      "number": "17B",
+      "description": "Annual report of National Accountability Bureau (NAB)."
+    },
+    {
+      "number": 18,
+      "description": "Daily Press Reports and International Media Digest issued by the Ministry of Information and Broadcasting."
+    },
+    {
+      "number": 19,
+      "description": "All other important cases involving question of policy and principles."
+    },
+    {
+      "number": 20,
+      "description": "Papers pertaining to any other matter required by the President through a general or special order."
+    },
+    {
+      "number": 21,
+      "description": "All matters of internal and foreign policy and on all legislative proposals the Federal Government intends to bring before Majlis-e-Shoora (Parliament)."
+    }
+  ]
+ }
+]

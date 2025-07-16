@@ -1,0 +1,26 @@
+{
+  "part": "H",
+  "title": "EMERGENCY PROVISIONS",
+  "rules": [
+    {
+      "number": "51",
+      "title": "Proclamation of Emergency on account of war, internal disturbance, etc.",
+      "content": "(1) The Proclamation in case of a grave emergency in which the security of Pakistan, or any part thereof is threatened by war or external aggression, or by internal disturbance beyond the power of a Provincial Government to control, shall be issued by the Cabinet Division in terms of rule 15-A.\n\n(2) The Divisions concerned shall keep the provisions of clauses (2) to (8) of Article 232 in view for making legislation, if required, while a Proclamation of emergency is in force and for submission of the Proclamation to the joint sitting or the Senate, as the case may be.\n\n(3) The provisions of rules 27, 28, 29 and 30 shall apply mutatis mutandis for the purpose of legislation while a Proclamation of emergency is in force."
+    },
+    {
+      "number": "52",
+      "title": "Failure of constitutional machinery in a Province",
+      "content": "(1) The Proclamation in case of failure of constitutional machinery in a Province shall be issued by the Cabinet Division in terms of rule 15-A.\n\n(2) The Division concerned shall keep the provisions of clauses (3) to (6) of Article 234 in view for making legislation, if required, while a Proclamation of emergency is in force and for submission of the Proclamation to the joint sitting or the Senate, as the case may be.\n\n(3) The provisions of rules 27, 28, 29 and 30 shall apply mutatis mutandis for the purpose of legislation while a Proclamation of emergency is in force."
+    },
+    {
+      "number": "53",
+      "title": "Proclamation in case of financial stringency",
+      "content": "(1) The Proclamation in case of financial stringency shall be issued by the Finance Division in terms of rule 15-A.\n\n(2) The Finance Division shall keep the provisions of clause (4) of Article 235 in view for submission of the Proclamation to the joint sitting or the Senate, as the case may be."
+    },
+    {
+      "number": "54",
+      "title": "Revocation of Proclamation, etc.",
+      "content": "The Proclamation issued under rule 51, 52 or 53 shall be varied or revoked by a subsequent Proclamation to be issued by the Division concerned in terms of rule 15-A."
+    }
+  ]
+}

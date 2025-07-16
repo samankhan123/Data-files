@@ -1,0 +1,67 @@
+{
+  "part": "E",
+  "title": "LEGISLATION",
+  "rules": [
+    {
+      "number": "27",
+      "title": "Official Bills",
+      "content": {
+        "1": "The Division concerned shall be responsible for determining the contents of the proposed legislation, consulting the other Divisions concerned (including the Finance Division), and obtaining Cabinet approval under rule 16(1)(a) before asking the Law and Justice Division to draft the Bill. Provided that if the legislation involves only a verbal or formal amendment, Cabinet approval shall not be necessary before the Bill is drafted.",
+        "2": "When referring the approved legislation to the Law and Justice Division, the Division concerned shall send to that Division the relevant papers, along with a memorandum indicating the provisions required to be made and the reasons therefor, so that the draft may be properly framed.",
+        "3": "The Law and Justice Division shall give shape to the draft Bill, advising at the same time whether or not Parliament has the power to make a law on the subject and whether any special requirements of the Constitution or any other law are to be complied with before the Bill is introduced in the Parliament.",
+        "4": "Where the Bill requires the prior consent or sanction of the Federal Government or the President, the Law and Justice Division shall also prepare the requisite motion or document for obtaining such consent or sanction.",
+        "5": {
+          "a": {
+            "i": "The draft Bill shall be submitted to the Cabinet for approval.",
+            "ii": "If there are any outstanding issues, the same shall also be submitted to the Cabinet for decision."
+          },
+          "b": "Where the draft Bill has not already been approved by the Prime Minister under rule 16(1)(a), his approval shall be obtained before it is submitted to the Cabinet.",
+          "c": "Where the consent or sanction of the Prime Minister or the President is required, the Division concerned shall obtain such consent or sanction and return the draft to the Law and Justice Division for further action."
+        },
+        "5A": "While according approval in principle to a legislative proposal, the Cabinet may, in appropriate cases, waive the requirement of submission of the draft Bill again for approval under sub-clause (i) of clause (a) of sub-rule (5).",
+        "6": "The Division concerned shall incorporate in the brief for the Minister-in-Charge the directions, if any, given by the Cabinet regarding the Bill.",
+        "7": "Where legislation is of a formal nature or pertains to codification or consolidation of existing enactments, or the repeal of obsolete laws, it may be initiated by the Law and Justice Division. However, the Divisions concerned with the subject matter of the legislation shall be consulted and their views, particularly from the administrative standpoint, shall be obtained.",
+        "8": "After completing the requirements of sub-rule (5), the Division concerned shall forward the final draft of the Bill along with the signed Statement of Objects and Reasons to the Law and Justice Division, which shall scrutinize the draft from a legal and constitutional point of view and transmit it to the Parliamentary Affairs Division for introduction in the Majlis-e-Shoora (Parliament)."
+      },
+      "amendments": [
+        "Sub-rule (5A) inserted via S.R.O. 135(I)/98, dated 3rd March, 1998"
+      ]
+    },
+    {
+      "number": "28",
+      "title": "Introduction of Bills in the Assembly or the Senate",
+      "content": {
+        "1": "Before a Bill is introduced in the Assembly or the Senate, the Division concerned shall examine its administrative implications and consult the other Divisions concerned, including the Finance Division, where necessary.",
+        "2": "The draft Bill shall be referred to the Law and Justice Division for advice as to its legal implications, the competence of the Majlis-e-Shoora (Parliament) to enact the law, and the need for obtaining the prior consent or sanction of the Federal Government or the President.",
+        "3": {
+          "a": "The Minister-in-Charge shall decide whether the Bill should be: (i) taken into consideration at once, (ii) referred to a Select Committee, (iii) circulated for eliciting opinion, or (iv) opposed in the Assembly or the Senate."
+        },
+        "4": "Where the consent or sanction of the Prime Minister or the President is required under the Constitution or the Rules of Business, it shall be obtained before the Bill is introduced in the Assembly or the Senate."
+      },
+      "amendments": [
+        "Amended via S.R.O. 634(I)/2016, dated 11th July, 2016"
+      ]
+    },
+    {
+      "number": "29",
+      "title": "Official and Non-Official Amendments to Bills",
+      "content": {
+        "1": "Official amendments to a Bill may be made at any time before the Bill is passed by the House in which it was introduced.",
+        "2": "All such amendments shall be prepared by the Division concerned in consultation with the Law and Justice Division.",
+        "3": "In regard to official amendments, the procedure prescribed in rule 27 shall apply mutatis mutandis.",
+        "4": "Non-official amendments shall be examined by the Law and Justice Division before they are moved in the House."
+      }
+    },
+    {
+      "number": "30",
+      "title": "Ordinances",
+      "content": {
+        "1": "The provisions of rule 27 shall apply mutatis mutandis when the proposed legislation is an Ordinance.",
+        "2": "The Law and Justice Division shall draft and finalize the Ordinance and forward it to the Prime Minister for approval.",
+        "3": "After approval, the Law and Justice Division shall arrange to obtain the President's assent to promulgate the Ordinance.",
+        "4": "The Law and Justice Division shall, in due course, arrange to lay the Ordinance before the Assembly, if it contains provisions dealing with all or any of the matters specified in clause (2) of Article 73 of the Constitution, and before both Houses, if it does not.",
+        "5": "If it is decided to withdraw an Ordinance, the approval of the President shall be obtained through the Prime Minister before its withdrawal is notified."
+      }
+    }
+  ]
+}

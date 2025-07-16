@@ -1,0 +1,208 @@
+[
+  {
+    "number": "1",
+    "title": "Cabinet Secretariat",
+    "divisions": [
+      "Cabinet Division",
+      "Establishment Division",
+      "Intelligence Bureau Division",
+      "National Security Division",
+      "Special Investment Facilitation Council (SIFC) Division"
+    ]
+  },
+  {
+    "number": "1A",
+    "title": "Omitted",
+    "note": "Omitted vide SRO 83(I)/2025 dated 4th February, 2025"
+  },
+  {
+    "number": "2",
+    "title": "Ministry of Parliamentary Affairs",
+    "divisions": ["Parliamentary Affairs Division"]
+  },
+  {
+    "number": "3",
+    "title": "Ministry of Foreign Affairs",
+    "divisions": ["Foreign Affairs Division"]
+  },
+  {
+    "number": "4",
+    "title": "Ministry of Law and Justice",
+    "divisions": ["Law and Justice Division"]
+  },
+  {
+    "number": "5",
+    "title": "Ministry of Defence",
+    "divisions": ["Defence Division"]
+  },
+  {
+    "number": "6",
+    "title": "Ministry of Defence Production",
+    "divisions": ["Defence Production Division"]
+  },
+  {
+    "number": "6A",
+    "title": "Ministry of Economic Affairs",
+    "divisions": ["Economic Affairs Division"],
+    "note": "Inserted vide SRO 1025(1)/2020 dated 8th October, 2020"
+  },
+  {
+    "number": "7",
+    "title": "Ministry of Energy",
+    "divisions": ["Power Division", "Petroleum Division"]
+  },
+  {
+    "number": "8",
+    "title": "Ministry of Federal Education, Professional Training, National Heritage and Culture",
+    "divisions": [
+      "Federal Education and Professional Training Division",
+      "National Heritage and Culture Division"
+    ],
+    "note": "Substituted vide SRO 1025(1)/2020 dated 8th October, 2020"
+  },
+  {
+    "number": "9",
+    "title": "Ministry of Finance and Revenue",
+    "divisions": ["Finance Division", "Revenue Division"],
+    "note": "Substituted vide SRO 1025(1)/2020 dated 8th October, 2020"
+  },
+  {
+    "number": "10",
+    "title": "Ministry of Foreign Affairs",
+    "divisions": ["Foreign Affairs Division"]
+  },
+  {
+    "number": "11",
+    "title": "Ministry of Housing and Works",
+    "divisions": ["Housing and Works Division"]
+  },
+  {
+    "number": "12",
+    "title": "Ministry of Human Rights",
+    "divisions": ["Human Rights Division"]
+  },
+  {
+    "number": "13",
+    "title": "Ministry of Industries and Production",
+    "divisions": ["Industries and Production Division"]
+  },
+  {
+    "number": "14",
+    "title": "Ministry of Information and Broadcasting",
+    "divisions": ["Information and Broadcasting Division"]
+  },
+  {
+    "number": "15",
+    "title": "Ministry of Information Technology and Telecommunication",
+    "divisions": ["Information Technology and Telecommunication Division"]
+  },
+  {
+    "number": "16",
+    "title": "Ministry of Interior and Narcotics Control",
+    "divisions": ["Interior and Narcotics Control Division"],
+    "note": "Substituted vide SRO 1434(I)/2024 dated 11-09-2024"
+  },
+  {
+    "number": "17",
+    "title": "Ministry of Inter-Provincial Coordination",
+    "divisions": ["Inter-Provincial Coordination Division"]
+  },
+  {
+    "number": "18",
+    "title": "Ministry of Kashmir Affairs, Gilgit Baltistan and States and Frontier Regions",
+    "divisions": ["Kashmir Affairs, Gilgit-Baltistan and States and Frontier Regions Division"],
+    "note": "Inserted vide SRO 1986(I)/2024 dated 05-12-2024"
+  },
+  {
+    "number": "19",
+    "title": "Ministry of Law and Justice",
+    "divisions": ["Law and Justice Division"]
+  },
+  {
+    "number": "19A",
+    "title": "Ministry of Maritime Affairs",
+    "divisions": ["Maritime Affairs Division"]
+  },
+  {
+    "number": "20",
+    "title": "Omitted",
+    "note": "Omitted vide SRO 83(I)/2025 dated 4th February, 2025"
+  },
+  {
+    "number": "21",
+    "title": "Ministry of National Food Security and Research",
+    "divisions": ["National Food Security and Research Division"]
+  },
+  {
+    "number": "22",
+    "title": "Ministry of National Health Services, Regulations and Coordination",
+    "divisions": ["National Health Services, Regulations and Coordination Division"]
+  },
+  {
+    "number": "23",
+    "title": "Ministry of Overseas Pakistanis and Human Resource Development",
+    "divisions": ["Overseas Pakistanis and Human Resource Development Division"]
+  },
+  {
+    "number": "24",
+    "title": "Ministry of Parliamentary Affairs",
+    "divisions": ["Parliamentary Affairs Division"]
+  },
+  {
+    "number": "25",
+    "title": "Ministry of Planning, Development and Special Initiatives",
+    "divisions": ["Planning, Development and Special Initiatives Division"],
+    "note": "Substituted vide SRO 1434(I)/2024 dated 11-09-2024"
+  },
+  {
+    "number": "25A",
+    "title": "Ministry of Poverty Alleviation and Social Safety",
+    "divisions": ["Poverty Alleviation and Social Safety Division"],
+    "note": "Substituted vide SRO 1025(1)/2020 dated 8th October, 2020"
+  },
+  {
+    "number": "26",
+    "title": "Omitted",
+    "note": "Omitted vide SRO 1262(1)/2017 dated 20-12-2017"
+  },
+  {
+    "number": "27",
+    "title": "Omitted",
+    "note": "Omitted vide SRO 1025(1)/2020 dated 8th October, 2020"
+  },
+  {
+    "number": "28",
+    "title": "Ministry of Privatization",
+    "divisions": ["Privatization Division"]
+  },
+  {
+    "number": "29",
+    "title": "Ministry of Railways",
+    "divisions": ["Railways Division"]
+  },
+  {
+    "number": "30",
+    "title": "Ministry of Religious Affairs and Interfaith Harmony",
+    "divisions": ["Religious Affairs and Interfaith Harmony Division"]
+  },
+  {
+    "number": "31",
+    "title": "Ministry of Science and Technology",
+    "divisions": ["Science and Technology Division"]
+  },
+  {
+    "number": "32",
+    "title": "Omitted",
+    "note": "Omitted vide SRO 83(I)/2025 dated 4th February, 2025"
+  },
+  {
+    "number": "33",
+    "title": "Omitted",
+    "note": "Omitted vide SRO 487(1)/2019 dated 23rd April, 2019"
+  },
+  {
+    "number": "34",
+    "title": "Ministry of Water Resources",
+    "divisions": ["Water Resources Division"]
+  }
+]
